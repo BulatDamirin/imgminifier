@@ -9,10 +9,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-gm": "0.0.9",
+    "gulp-image-resize": "^0.13.1",
     "gulp-tinypng-nokey": "^1.1.0",
+    "gulp-watermark": "0.0.1",
     "imagemin-webp": "^5.1.0"
   },
   "dependencies": {
+    "gm": "^1.23.1",
     "gulp-ext-replace": "^0.3.0",
     "gulp-imagemin": "^6.0.0",
     "imagemin": "^7.0.0"
